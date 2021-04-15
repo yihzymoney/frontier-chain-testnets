@@ -1,6 +1,6 @@
 # Frontier Chain Testnet: Black Mamba 0
 
-This will be the first public testnet for Frontier Chain, a public blockchain for managing DeFi positions across various protocols without compromising safety or security.
+This will be the first public testnet for Frontier Chain, a public blockchain for managing DeFi positions across various protocols without compromising safety or security. Read the introduction [here](https://blog.frontierwallet.com/frontier-chain-testnet-is-now-live/).
 
 Please put gentxs in the `gentxs` folder within this directory.
 
