@@ -43,3 +43,21 @@ genesis hash: 01b86a2e401ea1519644bff059c7a937496003fb7a61554d3dff7ecfcfdfa7e1
 seeds: PLACEHOLDER
 persistent peers: a6b554f55b619ec07e8ecbb0abc36cce39dcea39@34.239.152.196:26656
 ```
+
+## Troubleshooting
+
+```
+#1 Do you have
+export PATH=$PATH:/usr/local/go/bin
+export GOPATH=$HOME/go
+export PATH=$PATH:$GOPATH/bin
+in your bashrc/zshrc?
+
+#2 Make sure go version installed in your system meets the minimum requirement of 1.15+
+
+you can check that by running the following command
+
+go version
+
+#3 Restart your terminal and try again
+```
